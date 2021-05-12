@@ -24,7 +24,7 @@
   "dependencies": {
     "connect-flash": "^0.1.1",
     "express": "4.15.4",
-    "nodemailer": "^6.4.8"
+    "nodemailer": "^6.4.16"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "1.4.17"
